@@ -5,7 +5,7 @@
       <div class="col-lg-3 col-md-6">
         <div class="logo">
           <a href="#">
-            <img style="max-width:240px ;" alt="img" src="https://bharatlaundry.co/logos.png">
+            <img style="max-width:240px ;" alt="img" src="assets/logo/logos.png">
           </a>
           <p>An esteemed associate company of the Cleaners Crew Hospitality Services, renowned for its leadership in manpower solutions.</p>
        

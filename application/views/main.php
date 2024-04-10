@@ -31,7 +31,7 @@
                             <a href="<?php echo base_url('service');?>">
                                 <h4>Linen Management</h4>
                             </a>
-                            <p>Lorem ipsum dolor sit amet cons ectetur adipisicing elit, sed do ei m dolousmod</p>
+                            <p>We offer a tailored approach that includes everything from linen procurement and inventory management </p>
                         </div>
                     </div>
                 </div>
@@ -46,7 +46,7 @@
                             <a href="<?php echo base_url('service');?>">
                                 <h4>Customized Solutions</h4>
                             </a>
-                            <p>Lorem ipsum dolor sit amet cons ectetur adipisicing elit, sed do ei m dolousmod</p>
+                            <p>Our washing services are designed to deliver exceptional results while saving you time and resources</p>
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                             <a href="<?php echo base_url('service');?>">
                                 <h4>Washing Services</h4>
                             </a>
-                            <p>Lorem ipsum dolor sit amet cons ectetur adipisicing elit, sed do ei m dolousmod</p>
+                            <p>Our commitment to meeting your unique needs extends beyond standard service offerings</p>
                         </div>
                     </div>
                 </div>
@@ -78,8 +78,8 @@
         <div>
             <h2>New Laundry Service Near You,</h2>
             <h5>A Gentle Solution for The Environment.</h5>
-            <h6 class="txt">Environmental Friendly Practices</h6>
-            <h6 class="txt">ISO Certification</h6>
+            <h6 class="txt"> <img src="assets/images/eco-.jpg" alt="" style=" height:40px;">        Environmental Friendly Practices </h6>
+            <h6 class="txt"><img src="assets/images/iso.jpg" alt="" style=" height:40px;">  ISO Certification</h6>
             <h6 class="txt">Green Building Certified Facilities</h6>
             <h6 class="txt">Expertise in Hospitality Services</h6>
             <h6 class="txt">Seamless Integration</h6>
@@ -183,71 +183,33 @@
 </section> -->
 
 
-<section class="gap">
-    <div class="container">
-        <div class="heading">
-            <img src="assets/img/heading-img.png" alt="heading-img">
-            <p>Blog a & News</p>
-            <h2>Recent Articles</h2>
-        </div>
-        <div class="row">
-            <div class="col-lg-4 col-md-6">
-                <div class="blog-data">
-                    <div class="blog-img position-relative">
-                        <figure>
-                            <img src="assets/img/blog-1.jpg" alt="blog">
-                        </figure>
-                        <div class="data">
-                            <h4>April 5, 2024</h4>
-                            <a href="#"><img src="assets/img/camment.png" alt="comment">0</a>
-                        </div>
-                    </div>
-                    <a href="blog-details.html">
-                        <h3>What Kind of Fabrics Really Need Dry Cleaning</h3>
-                    </a>
-                    <p>Stanard dummy text ever snce the aem Ipsumf. the printingand ypese inghas bemmyen the supim.
-                        Stanard dummy text ever snce.</p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="blog-data">
-                    <div class="blog-img position-relative">
-                        <figure>
-                            <img src="assets/img/blog-2.jpg" alt="blog">
-                        </figure>
-                        <div class="data">
-                            <h4>April 5, 2024</h4>
-                            <a href="#"><img src="assets/img/camment.png" alt="comment">0</a>
-                        </div>
-                    </div>
-                    <a href="blog-details.html">
-                        <h3>Wash Your Workwear To Make Them Last Longer?</h3>
-                    </a>
-                    <p>Stanard dummy text ever snce the aem Ipsumf. the printingand ypese inghas bemmyen the supim.
-                        Stanard dummy text ever snce.</p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="blog-data mb-0">
-                    <div class="blog-img position-relative">
-                        <figure>
-                            <img src="assets/img/blog-3.jpg" alt="blog">
-                        </figure>
-                        <div class="data">
-                            <h4>April 5, 2024</h4>
-                            <a href="#"><img src="assets/img/camment.png" alt="comment">0</a>
-                        </div>
-                    </div>
-                    <a href="blog-details.html">
-                        <h3>Clothes Will Be Collected, Cleaned And Delivered</h3>
-                    </a>
-                    <p>Stanard dummy text ever snce the aem Ipsumf. the printingand ypese inghas bemmyen the supim.
-                        Stanard dummy text ever snce.</p>
-                </div>
-            </div>
-            <div class="btn-center">
-                <a href="" class="sec-btn">View All News</a>
-            </div>
-        </div>
-    </div>
-</section>
+<section class="join-our" style="background-image:url(assets/img/join-book-now.jpg)">
+      <div class="container">
+          <div class="row align-items-center">
+              <div class="col-lg-5">
+                  <div class="oder-book-now">
+                      <img src="assets/img/t-shirt.png" alt="t-shirt">
+                      <p>We dry clean, collect and deliver</p>
+                      <h5>Start Your Order Now</h5>
+                      <a href="#" class="sec-btn">BOOK NOW</a>
+                  </div>
+              </div>
+              <div class="col-lg-7">
+                  <div class="newsletter">
+                      <h3>Subscribe Us</h3>
+                      <p>Sign up to receive our latest news and special offers from our Laundry</p>
+                      <form>
+                          <div class="d-flex">
+                              <input type="text" name="email" placeholder="Enter your email....">
+                              <button class="sec-btn">Subscribe</button>
+                          </div>
+                          <div class="first">
+                            <input type="checkbox" name="checkbox" id="checkbox">
+                            <label for="checkbox">By clicking you are agreeing to our terms and services</label>
+                          </div>
+                      </form>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </section>

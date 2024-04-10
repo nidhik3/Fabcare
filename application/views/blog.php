@@ -8,7 +8,7 @@
                 </div>
                 <ol class="breadcrumb">
                   <li class="breadcrumb-item">
-                    <a href="index.html">Home</a>
+                    <a href="main">Home</a>
                   </li>
                     <li class="breadcrumb-item active" aria-current="page">Our blog</li>
                 </ol>

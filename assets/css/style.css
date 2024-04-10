@@ -119,12 +119,18 @@ h3{
 h4{
     font-size: 24px;
 }
+
 h5{
     font-size: 20px;
 }
 h6{
     font-size: 18px;
 }
+.con h4{
+    font-size: 21px;
+}
+
+
 img{
     object-fit: cover;
 }
@@ -2103,9 +2109,10 @@ header.two .bottom-bar img {
 .team-style span {
     display: block;
     color: #666;
-    font-weight: 800;
-    text-transform: uppercase;
-    padding-top: 30px;
+    font-weight: 500;
+    /* text-transform: uppercase; */
+    padding-top: 14px;
+    padding-bottom: 30px;
 }
 .team-style:before {
     content: "";

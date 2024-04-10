@@ -44,7 +44,7 @@
  
   <div class="container">
     <div class="bottom-bar">
-      <a href="index.html"><img style="max-width: 230px;" src="https://bharatlaundry.co/logos.png" alt="logo"></a>
+      <a href="main"><img style="max-width: 230px;" src="https://bharatlaundry.co/logos.png" alt="logo"></a>
         <nav class="navbar">
           <ul class="navbar-links">
             <li class="navbar-dropdown has-children">
@@ -75,7 +75,7 @@
 
   <div class="mobile-nav hmburger-menu" id="mobile-nav" style="display:block;">
       <div class="res-log">
-        <a href="index.html">
+        <a href="main">
           <img src="assets/img/logo-f.png" alt="Responsive Logo">
         </a>
       </div>
