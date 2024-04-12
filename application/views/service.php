@@ -26,7 +26,7 @@
 <section class="gap">
     <div class="container">
         <div class="heading">
-            <img src="assets/img/heading-img.png" alt="heading-img">
+            <img src="assets/photo/O1.png" alt="heading-img">
             <p>Expert, tailored solutions</p>
             <h2>Our specialized services.</h2>
         </div>
@@ -35,7 +35,7 @@
             <div class="col-lg-4 col-md-6 text-center">
                 <div class="team-style d-flex flex-column align-items-center">
                     <img src="assets/images/linen.png" alt="team">
-                    <a href="">Linen Management</a>
+                    <a class="pt-2" href="">Linen Management</a>
                     <span class=" col-md-10" style="max-width: 100%;">For clients looking for comprehensive linen management solutions, we offer a tailored approach
                         that includes everything from linen procurement and inventory management to washing, folding,
                         and delivery. Our team works closely with you to understand your linen requirements and develop
@@ -49,7 +49,7 @@
             <div class="col-lg-4 col-md-6 text-center">
                 <div class="team-style d-flex flex-column align-items-center">
                     <img src="assets/images/washing.png" alt="team">
-                    <a href="">Washing Services</a>
+                    <a  class="pt-2" href="">Washing Services</a>
                     <span class=" col-md-10" style="max-width: 100%;">If you prefer to handle linen procurement and inventory management in-house but require professional washing services, we've got you covered. Our washing services are designed to deliver exceptional results while saving you time and resources. We use state-of-the-art equipment and eco-friendly detergents to ensure that your linens are cleaned to the highest standards, every time.
                 
                 
@@ -62,7 +62,7 @@
             <div class="col-lg-4 col-md-6 text-center">
                 <div class="team-style d-flex flex-column align-items-center">
                     <img src="assets/images/customised.png" alt="team">
-                    <a href="">Customized Solutions </a>
+                    <a  class="pt-2" href="">Customized Solutions </a>
                     <span class=" col-md-10" style="max-width: 100%;">Our commitment to meeting your unique needs extends beyond standard service offerings. We work closely with each client to understand their specific requirements and preferences, allowing us to tailor our services accordingly. Whether you need specialized cleaning for sensitive fabrics, customized packaging for branded linens, or flexible scheduling to accommodate peak demand periods, we're dedicated to delivering solutions that exceed your expectations.</span>
 
                 </div>
@@ -88,7 +88,7 @@
 <section class="works-section two" style="background-image: url(assets/img/works-section.jpg);">
     <div class="container">
         <div class="heading">
-            <img src="assets/img/heading-img.png" alt="heading-img">
+            <img src="assets/photo/O1.png" alt="heading-img">
             <p>Follow A Few Easy Steps</p>
             <h2>How it Works</h2>
         </div>
@@ -137,7 +137,7 @@
                 <a href="javascript:void(0)" class="lightbox-toggle sec-btn">Schedule a Pickup</a>
             </div>
         </div>
-        <img src="assets/img/line.png" class="works-line" alt="line">
+        <img src="assets/photo/O7.png" class="works-line" alt="line">
     </div>
 </section>
 <div class="gap">
